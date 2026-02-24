@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/taller-hr-collective/',
+  base: '/hr-bootcamp-workbook/',
   title: "HR AI Workshop",
   description: "Taller práctico para líderes de RRHH sobre Inteligencia Artificial",
   lang: 'es-ES',
