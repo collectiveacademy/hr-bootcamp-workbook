@@ -16,7 +16,6 @@ export default defineConfig({
       {
         text: 'Leading HR in the Age of AI',
         items: [
-          { text: 'Syllabus y Estructura', link: '/' },
           { text: 'Sesión 1: AI Literacy', link: '/sesion-1' },
           { text: 'Sesión 2: Talent Acquisition', link: '/sesion-2' },
           { text: 'Sesión 3: Entrevistas', link: '/sesion-3' },
