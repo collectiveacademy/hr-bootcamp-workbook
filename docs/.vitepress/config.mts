@@ -22,6 +22,14 @@ export default defineConfig({
           { text: 'Sesión 4: Desempeño', link: '/sesion-4' },
           { text: 'Sesión 5: Cultura', link: '/sesion-5' }
         ]
+      },
+      {
+        text: 'Leading HR in the Age of AI - Part 2',
+        items: [
+          { text: 'Sesión 1: Diagnóstico DNE', link: '/parte2-sesion-1' },
+          { text: 'Sesión 2: Desarrollo 70:20:10', link: '/parte2-sesion-2' },
+          { text: 'Sesión 3: HR Analytics', link: '/parte2-sesion-3' }
+        ]
       }
     ],
 

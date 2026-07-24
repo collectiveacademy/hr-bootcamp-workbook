@@ -1,0 +1,51 @@
+ID Vacante,Área,Rol,Salario Oferta,Fecha Apertura,Estatus,Días Abierta,Motivo de Retraso
+VAC-001,Tecnología,Desarrollador Backend Senior,72000,2026-05-12,En proceso de selección,73,Perfil escaso en mercado
+VAC-002,Ventas,Ejecutivo de Cuentas Enterprise,38000,2026-06-03,Abierta,51,
+VAC-003,Marketing,Gerente de Marketing Digital,65000,2026-04-18,Pausada,97,Aprobación presupuestal pendiente
+VAC-004,Finanzas,Analista Financiero,42000,2026-07-01,Abierta,23,
+VAC-005,Recursos Humanos,Business Partner de RRHH,58000,2026-03-10,Cubierta,45,
+VAC-006,Operaciones,Coordinador de Logística,32000,2026-06-20,En proceso de selección,34,
+VAC-007,Tecnología,Ingeniero DevOps,78000,2026-02-28,En proceso de selección,146,Competencia salarial
+VAC-008,Legal,Abogado Corporativo,55000,2026-05-28,Abierta,57,
+VAC-009,Customer Success,Customer Success Manager,45000,2026-01-15,Cubierta,62,
+VAC-010,Producto,Product Manager,85000,2026-04-02,Oferta pendiente,113,Rechazo de ofertas previas
+VAC-011,Manufactura,Supervisor de Planta,40000,2026-06-10,Abierta,44,
+VAC-012,Tecnología,Desarrollador Frontend,55000,2026-07-10,Abierta,14,
+VAC-013,Ventas,Gerente Regional de Ventas,72000,2026-03-25,Pausada,121,Reestructura organizacional
+VAC-014,Finanzas,Controller,95000,2026-05-05,En proceso de selección,80,Perfil escaso en mercado
+VAC-015,Marketing,Diseñador Gráfico,28000,2026-07-15,Abierta,9,
+VAC-016,Recursos Humanos,Generalista de Nómina,35000,2026-06-01,En proceso de selección,53,
+VAC-017,Operaciones,Analista de Supply Chain,48000,2026-04-10,Cancelada,67,
+VAC-018,"Tecnología, Producto",Tech Lead Full Stack,92000,2026-02-14,En proceso de selección,160,Cambio de requisitos del hiring manager
+VAC-019,Ventas,SDR,22000,2026-06-25,Abierta,29,
+VAC-020,Legal,Compliance Officer,62000,2026-03-18,Cubierta,85,
+VAC-021,Customer Success,Especialista de Soporte N2,26000,2026-07-08,Abierta,16,
+VAC-022,Finanzas,Tesorero,68000,2026-01-28,Cubierta,52,
+VAC-023,Tecnología,Analista de Datos,52000,2026-05-20,En proceso de selección,65,Falta de disponibilidad del entrevistador
+VAC-024,Marketing,Content Strategist,42000,2026-06-15,Abierta,39,
+VAC-025,Operaciones,Gerente de Operaciones,75000,2026-04-25,Oferta pendiente,90,
+VAC-026,Recursos Humanos,Coordinador de Reclutamiento,38000,2026-02-05,Cubierta,38,
+VAC-027,Manufactura,Ingeniero de Calidad,44000,2026-06-08,En proceso de selección,46,
+VAC-028,Tecnología,Arquitecto de Software,105000,2026-03-02,Pausada,144,Congelamiento de headcount
+VAC-029,Ventas,Account Executive Mid-Market,35000,2026-07-03,Abierta,21,
+VAC-030,Producto,UX Researcher,58000,2026-05-15,En proceso de selección,70,Perfil escaso en mercado
+VAC-031,Finanzas,Auditor Interno,50000,2026-06-28,Abierta,26,
+VAC-032,Legal,Paralegal,30000,2026-04-08,Cancelada,45,
+VAC-033,Customer Success,Implementation Specialist,40000,2026-02-20,Cubierta,71,
+VAC-034,Tecnología,QA Automation Engineer,48000,2026-06-18,Abierta,36,
+VAC-035,Marketing,Community Manager,32000,2026-03-30,En proceso de selección,116,Proceso interno lento
+VAC-036,Operaciones,Jefe de Almacén,36000,2026-07-12,Abierta,12,
+VAC-037,Recursos Humanos,Especialista en Compensaciones,52000,2026-04-15,Oferta pendiente,100,Rechazo de ofertas previas
+VAC-038,Ventas,Channel Partner Manager,55000,2026-01-22,Cubierta,41,
+VAC-039,Tecnología,Científico de Datos,82000,2026-05-08,En proceso de selección,77,Competencia salarial
+VAC-040,Finanzas,Analista de Presupuesto,38000,2026-06-22,Abierta,32,
+VAC-041,Manufactura,Técnico de Mantenimiento,28000,2026-03-12,Cancelada,89,
+VAC-042,Producto,Product Designer,62000,2026-07-05,Abierta,19,
+VAC-043,Marketing,Performance Marketing Specialist,45000,2026-02-10,Cubierta,55,
+VAC-044,Tecnología,Mobile Developer iOS,68000,2026-04-28,Pausada,87,Prioridad repriorizada por dirección
+VAC-045,Operaciones,Analista de Compras,34000,2026-06-05,En proceso de selección,49,
+VAC-046,Customer Success,Gerente de Retención,58000,2026-03-08,En proceso de selección,138,Perfil escaso en mercado
+VAC-047,Recursos Humanos,Analista de Cultura Organizacional,40000,2026-07-18,Abierta,6,
+VAC-048,Legal,Especialista en Propiedad Intelectual,60000,2026-05-22,Abierta,63,Baja respuesta de candidatos
+VAC-049,Ventas,Inside Sales Representative,24000,2026-04-20,Cubierta,28,
+VAC-050,Tecnología,Engineering Manager,98000,2026-01-08,En proceso de selección,197,Cambio de requisitos del hiring manager

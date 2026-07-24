@@ -96,3 +96,62 @@ A continuación se detalla el contenido de las 5 sesiones del taller.
 | **Actividades / dinámica** | • **Auditoría:** Mejorar una encuesta existente.<br>• **Analytics Lab:** Procesar un dataset (CSV) de 50 comentarios, extrayendo los top 3 problemas y generando un resumen ejecutivo.<br>• **Action Plan:** Generar iniciativas de mejora basadas en los insights. |
 | **Herramientas mencionadas** | ChatGPT (Code Interpreter/Data Analysis), Excel/CSV anonimizado. |
 | **Outputs** | Reporte de análisis de clima y plan de acción preliminar. |
+
+---
+
+# Parte 2: LEADING HR IN THE AGE OF AI - PART 2
+
+## 1. Ficha Técnica de la Continuación
+
+| Concepto | Detalle |
+| :--- | :--- |
+| **Nombre del curso** | LEADING HR IN THE AGE OF AI - PART 2 |
+| **Duración** | 7.5 horas totales (3 sesiones de 2.5 horas cada una) |
+| **Modalidad** | En persona / Sincrónico |
+| **Mentor** | Javier Rivero |
+| **Audiencia** | Egresados de la Parte 1: Líderes, Gerentes, HR Business Partners y profesionales de RRHH en LATAM. |
+| **Prerrequisitos** | Haber cursado la Parte 1 (o dominar los fundamentos de prompting y el framework C.R.I.F.). |
+
+### Descripción y Propósito
+Esta continuación lleva a los participantes del uso individual de la IA a la construcción de un flujo de trabajo completo de gestión de talento: diagnosticar necesidades de capacitación (DNE), diseñar planes de desarrollo 70:20:10 con contenidos propios, y convertir datos de HR en decisiones ejecutivas mediante analytics y storytelling.
+
+### Perfil de Egreso
+Al finalizar, cada participante se lleva un **Master Document Ejecutable de HR**: Matriz DNE de alto impacto, rúbrica conductual, plan de desarrollo 70:20:10 con guión de micro-learning, y un Executive One-Pager con análisis cualitativo y cuantitativo listo para el Comité Directivo.
+
+---
+
+## 2. Esquema Detallado de Sesiones (Parte 2)
+
+### Sesión 1: Diagnóstico de Necesidades (DNE) con IA
+
+| Concepto | Detalle |
+| :--- | :--- |
+| **Objetivo de aprendizaje** | Transformar un Job Description estático en un diagnóstico dinámico de vulnerabilidades y competencias del futuro, culminando en una Matriz DNE de Alto Impacto lista para presentar a dirección. |
+| **Temas clave** | • **Fundamentos actualizados:** LLMs, Tokens & Contexto, capacidades por modelo, modos de razonamiento, chatbots vs. agentes.<br>• **Nuevos features:** Imágenes y calendarización en ChatGPT, videos y NotebookLM en Gemini, Skills en Claude.<br>• **Stress-Test del JD:** Competencias emergentes y brechas críticas a 2 años.<br>• **Consultoría Interactiva:** La IA como consultor que entrevista al participante (assessment situacional). |
+| **Actividades / dinámica** | • **Bloque 1:** Stress-test del JD real traído como prework.<br>• **Bloque 2:** Assessment situacional de 10 preguntas (una a la vez) con repregunta rigurosa.<br>• **Bloque 3:** Síntesis en la Matriz DNE de Alto Impacto (severidad, prioridad, tipo de intervención). |
+| **Herramientas mencionadas** | ChatGPT / Claude / Gemini. |
+| **Outputs** | Diagnóstico de puesto actualizado y Matriz DNE de Alto Impacto (insumo de la Sesión 2). |
+
+---
+
+### Sesión 2: Arquitectura de Desarrollo (70:20:10 y Micro-Learning)
+
+| Concepto | Detalle |
+| :--- | :--- |
+| **Objetivo de aprendizaje** | Romper la "adicción al curso": traducir competencias abstractas en conductas observables, diseñar un Plan de Desarrollo Individual 70:20:10 y producir el guión de un micro-learning de 3 minutos. |
+| **Temas clave** | • **Matriz de Evaluación Conductual:** Niveles No Cumple / Cumple / Excede con evidencias tangibles.<br>• **Metodología 70:20:10:** 70% experiencial, 20% social, 10% formal.<br>• **Entrevista Consultiva:** Guía para que el líder acuerde el plan sin imponerlo.<br>• **Fábrica de Contenidos:** Guiones de micro-learning con estructura Hook-Contenido-CTA. |
+| **Actividades / dinámica** | • **Bloque 1:** Construcción y edición activa de la rúbrica conductual.<br>• **Bloque 2:** Diseño del IDP 70:20:10 + guía de manejo de objeciones del líder.<br>• **Bloque 3:** Redacción y prueba de voz en alto del guión de video de 3 minutos. |
+| **Herramientas mencionadas** | ChatGPT / Claude (tablas Markdown), Loom o avatares de IA para grabación. |
+| **Outputs** | Rúbrica conductual ajustada, IDP 70:20:10 con proyectos reales y guión audiovisual cronometrado. |
+
+---
+
+### Sesión 3: HR Analytics & Storytelling Ejecutivo
+
+| Concepto | Detalle |
+| :--- | :--- |
+| **Objetivo de aprendizaje** | Conectar el *porqué* (datos cualitativos) con el *cuánto* (datos cuantitativos) para argumentar decisiones de negocio ante el C-Level en una sola página. |
+| **Temas clave** | • **Análisis Cualitativo:** Clusters temáticos, sentiment, causa raíz y riesgo de rotación.<br>• **Talent Acquisition Analytics:** Time-to-Fill, SLAs, cuellos de botella e impacto financiero de vacantes abiertas.<br>• **Storytelling Ejecutivo:** El Executive One-Pager (problema, impacto, plan de 30 días, ROI).<br>• **Privacidad:** Anonimización de PII antes de subir datos a la IA. |
+| **Actividades / dinámica** | • **Bloque 1:** Análisis de CSV cualitativo (voz del colaborador) con verificación de alucinaciones.<br>• **Bloque 2:** Auditoría cuantitativa del pipeline de vacantes con costo por día.<br>• **Bloque 3:** Redacción del Executive One-Pager y prueba de elevator pitch de 60 segundos. |
+| **Herramientas mencionadas** | ChatGPT (Data Analysis), CSVs anonimizados (clima y tracking de vacantes). |
+| **Outputs** | Informe de voz del colaborador, reporte de métricas de reclutamiento con impacto financiero y Executive One-Pager para el Comité Directivo. |
