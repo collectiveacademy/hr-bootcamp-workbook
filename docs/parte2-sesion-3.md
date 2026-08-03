@@ -4,7 +4,7 @@
 
 ### Conectando el Porqué con el Cuánto
 *   *Arco de la sesión:* Unimos los dos lenguajes que el C-Level exige: el **porqué** (datos cualitativos — la voz del colaborador) y el **cuánto** (datos cuantitativos — el costo operativo y financiero de no actuar).
-*   *El reto de hoy:* Procesar cientos de comentarios abiertos y filas de vacantes sin leerlos uno por uno, y traducir todo en un *Executive One-Pager* que justifique decisiones de negocio.
+*   *El reto de hoy:* Procesar cientos de comentarios abiertos y filas de vacantes sin leerlos uno por uno, y luego reflexionar sobre cómo combinar ambos lenguajes de evidencia antes de justificar cualquier decisión de negocio.
 *   *Input obligatorio:* Los dos CSV del prework son el insumo para los tres bloques de análisis. Sin ellos, la práctica pierde ritmo.
 
 ::: warning 📌 Prework y Datasets Requeridos
@@ -199,34 +199,22 @@ Luego entrega el siguiente reporte en formato de tabla Markdown:
 3. **Calidad de Datos:** Al correr el análisis, ¿qué tan limpia o estandarizada estaba su base de datos original y cuántos errores o datos faltantes tuvo que corregir la IA?
 4. **Uso de SLAs:** ¿Sus empresas miden el costo real de las vacantes abiertas o suele tratarse como un "gasto invisible" para el área de operaciones?
 
-## Bloque 4: Storytelling Ejecutivo - El "Executive One-Pager" (40 min)
+## Bloque 4: Reflexión Integradora - Cualitativo y Cuantitativo (20 min)
 
 ### Objetivo y Reto
-*   *Objetivo:* Unir las dos piezas del rompecabezas. El C-Level no lee CSVs; necesita conectar el *porqué* (cualitativo) con el *cuánto* (cuantitativo) para aprobar presupuestos.
-*   *Reto:* Generar una propuesta de una página que argumente una decisión de negocio y pase la prueba del elevator pitch de 60 segundos.
+*   *Objetivo:* Cerrar la sesión conectando los hallazgos del Bloque 2 (la voz del colaborador) y del Bloque 3 (las métricas de vacantes) para construir un criterio propio sobre cuándo confiar en cada tipo de evidencia, cuándo cruzarlas y qué hacer cuando se contradicen.
+*   *Reto:* No se trata de pedirle a la IA un tercer documento, sino de pausar y reflexionar en equipo: ¿qué lenguaje de dato pesa más en cada decisión de negocio, y qué se pierde si el análisis se apoya solo en uno de los dos (el cualitativo o el cuantitativo)?
 
-### 📋 Prompt (Copiar y Pegar)
-```text
-Actúa como un Chief People Officer (CPO) redactando un Memorándum Ejecutivo para el CEO y el CFO.
-Cruza los hallazgos del análisis cualitativo (la voz del colaborador) con los datos cuantitativos de vacantes y redacta un 'Executive One-Pager'.
-
-Estructura la respuesta con las siguientes secciones exactas:
-1. SÍNTESIS DEL PROBLEMA (3 líneas): Conecta la insatisfacción/clima detectado con la alta rotación y el retraso en cubrir vacantes.
-2. IMPACTO EN EL NEGOCIO (Métricas dadas): Resume el costo financiero acumulado y el riesgo operativo en las áreas más afectadas.
-3. PLAN DE ACCIÓN DE 30 DÍAS (2 decisiones estratégicas): Propón 2 iniciativas concretas para frenar la fuga de talento y acelerar la cobertura de vacantes.
-4. RETORNO DE INVERSIÓN (ROI ESPERADO): Redacta el cierre argumentando cómo esta inversión se paga sola al reducir los días de vacante y la rotación temprana.
-```
-
-### 🛠️ Call to Action: Edición Activa (5 min)
+### 🛠️ Call to Action: Puente entre los Dos Análisis (5 min)
 
 ::: tip Consigna en pantalla para el participante
-1. Copia la estructura del **Executive One-Pager** al cierre de tu documento.
-2. **Prueba del Elevator Pitch (60 segundos):** En parejas o de manera individual, lee únicamente la sección de "Impacto en el Negocio" y "Plan de Acción" a ritmo de presentación ejecutiva.
-3. Ajusta las 2 decisiones estratégicas para asegurarte de que sean factibles de implementar en las próximas 4 semanas en tu organización.
+1. Coloca lado a lado tus notas del Bloque 2 (hallazgos cualitativos) y del Bloque 3 (métricas cuantitativas).
+2. Identifica **un punto de conexión**: ¿hay una misma área, rol o equipo señalado en ambos análisis?
+3. Identifica **un punto de contradicción o vacío**: ¿hay algo que el dato cuantitativo sugiere pero el cualitativo no respalda (o viceversa)? Anota en una frase qué necesitarías investigar para resolverlo antes de llevarlo a dirección.
 :::
 
 ### 💬 Preguntas de Discusión Grupal
 
-1. **Alineación con el CFO:** ¿Qué tan convincente resulta el lenguaje de este memorándum para una reunión con el área de Finanzas comparado con los reportes tradicionales de HR?
-2. **Integración Sistémica:** Al ver la secuencia completa de las 3 sesiones (DNE → Plan de Desarrollo → Análisis de Datos), ¿qué proceso de su departamento se beneficiaría más si aplican este flujo de trabajo completo a partir del lunes?
-3. **Escalabilidad:** ¿Cómo pueden automatizar este reporte para que se genere mensualmente a partir de la exportación de su ATS/HRIS?
+1. **Peso de la evidencia:** Cuando el hallazgo cualitativo (clima, comentarios) y el cuantitativo (rotación, Time-to-Fill) señalan la misma área pero con distinta intensidad, ¿a cuál le dan más peso al momento de decidir una inversión, y por qué?
+2. **Cuándo usar cada lenguaje:** ¿Qué tipo de decisión de HR debería sustentarse principalmente en datos cuantitativos "duros", y cuál necesita obligatoriamente el respaldo de evidencia cualitativa (verbatims, contexto, matices)? Den un ejemplo real de su empresa.
+3. **Riesgo de contradicción:** Si el análisis cuantitativo dice que un área está "sana" (baja rotación, SLA cumplido) pero el cualitativo detecta señales de frustración, ¿qué protocolo debería seguir su equipo de HR antes de descartar la alerta cualitativa como "ruido"?

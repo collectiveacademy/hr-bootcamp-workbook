@@ -116,7 +116,7 @@ A continuación se detalla el contenido de las 5 sesiones del taller.
 Esta continuación lleva a los participantes del uso individual de la IA a la construcción de un flujo de trabajo completo de gestión de talento: diagnosticar necesidades de capacitación (DNE), diseñar planes de desarrollo 70:20:10 con contenidos propios, y convertir datos de HR en decisiones ejecutivas mediante analytics y storytelling.
 
 ### Perfil de Egreso
-Al finalizar, cada participante se lleva un **Master Document Ejecutable de HR**: Matriz DNE de alto impacto, rúbrica conductual, plan de desarrollo 70:20:10 con guión de micro-learning, y un Executive One-Pager con análisis cualitativo y cuantitativo listo para el Comité Directivo.
+Al finalizar, cada participante se lleva un **Master Document Ejecutable de HR**: Matriz DNE de alto impacto, rúbrica conductual, plan de desarrollo 70:20:10 con guión de micro-learning, y los análisis cualitativo y cuantitativo de HR Analytics con un criterio propio de cómo integrarlos para informar al Comité Directivo.
 
 ---
 
@@ -150,8 +150,8 @@ Al finalizar, cada participante se lleva un **Master Document Ejecutable de HR**
 
 | Concepto | Detalle |
 | :--- | :--- |
-| **Objetivo de aprendizaje** | Conectar el *porqué* (datos cualitativos) con el *cuánto* (datos cuantitativos) para argumentar decisiones de negocio ante el C-Level en una sola página. |
-| **Temas clave** | • **Análisis Cualitativo:** Clusters temáticos, sentiment, causa raíz y riesgo de rotación.<br>• **Talent Acquisition Analytics:** Time-to-Fill, SLAs, cuellos de botella e impacto financiero de vacantes abiertas.<br>• **Storytelling Ejecutivo:** El Executive One-Pager (problema, impacto, plan de 30 días, ROI).<br>• **Privacidad:** Anonimización de PII antes de subir datos a la IA. |
-| **Actividades / dinámica** | • **Bloque 1:** Análisis de CSV cualitativo (voz del colaborador) con verificación de alucinaciones.<br>• **Bloque 2:** Auditoría cuantitativa del pipeline de vacantes con costo por día.<br>• **Bloque 3:** Redacción del Executive One-Pager y prueba de elevator pitch de 60 segundos. |
+| **Objetivo de aprendizaje** | Conectar el *porqué* (datos cualitativos) con el *cuánto* (datos cuantitativos) para tomar decisiones de negocio con criterio, entendiendo cuándo confiar en cada tipo de evidencia. |
+| **Temas clave** | • **Análisis Cualitativo:** Clusters temáticos, sentiment, causa raíz y riesgo de rotación.<br>• **Talent Acquisition Analytics:** Time-to-Fill, SLAs, cuellos de botella e impacto financiero de vacantes abiertas.<br>• **Reflexión Integradora:** Cuándo pesa más lo cualitativo o lo cuantitativo, y qué hacer cuando se contradicen.<br>• **Privacidad:** Anonimización de PII antes de subir datos a la IA. |
+| **Actividades / dinámica** | • **Bloque 1:** Análisis de CSV cualitativo (voz del colaborador) con verificación de alucinaciones.<br>• **Bloque 2:** Auditoría cuantitativa del pipeline de vacantes con costo por día.<br>• **Bloque 3:** Reflexión grupal sobre cómo cruzar y priorizar evidencia cualitativa y cuantitativa. |
 | **Herramientas mencionadas** | ChatGPT (Data Analysis), CSVs anonimizados (clima y tracking de vacantes). |
-| **Outputs** | Informe de voz del colaborador, reporte de métricas de reclutamiento con impacto financiero y Executive One-Pager para el Comité Directivo. |
+| **Outputs** | Informe de voz del colaborador, reporte de métricas de reclutamiento con impacto financiero y un criterio documentado para integrar ambos análisis en decisiones futuras. |
