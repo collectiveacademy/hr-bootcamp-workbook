@@ -92,16 +92,10 @@ Luego entrega:
 
 ### 🛠️ Call to Action: Edición Activa (5 min)
 
-::: tip Consigna en pantalla para el participante — PASO 1
-1. Copia la **Radiografía del Dataset** y al menos **2 hipótesis comprobables** a tu documento de trabajo.
-2. **Validación manual:** Elige una hipótesis y búscala en el CSV original. ¿La evidencia coincide con lo que propuso la IA?
-3. Anota en una línea qué **limitación del dataset** podría invalidar una conclusión apresurada.
-:::
-
-::: tip Consigna en pantalla para el participante — PASO 2
-1. Copia la tabla de **Contraste de Hipótesis** (hallazgos / interpretaciones / limitaciones) y los clusters temáticos a tu documento final.
-2. **Verificación de Alucinación:** Busca manualmente en tu CSV original la cita textual que propuso la IA y confirma que el contexto del comentario completo refleje la interpretación que hizo el modelo.
-3. Ajusta el nombre de las áreas o políticas identificadas usando los términos técnicos exactos con los que se nombran en tu empresa.
+::: tip Consigna en pantalla para el participante
+1. **Lee** lo que generó la IA y **cópialo** a tu documento de trabajo.
+2. **Ajusta** nombres de áreas, políticas o conclusiones para que reflejen tu empresa.
+3. **Corrige** al menos un punto que no coincida con lo que ves en tu CSV.
 :::
 
 ### 💬 Preguntas de Discusión Grupal
@@ -109,7 +103,6 @@ Luego entrega:
 1. **Exploración vs. Resumen:** ¿Qué descubrieron en el PASO 1 que no habrían visto si pidieran directamente un "informe ejecutivo"? ¿La exploración cambió alguna hipótesis inicial?
 2. **Precisión del Análisis:** Al contrastar hipótesis con evidencia, ¿qué tan acertada fue la IA para ir más allá de la queja superficial vs. inventar patrones no sustentados?
 3. **Sesgo en Comentarios:** Al analizar datos cualitativos, ¿cómo evitan que los comentarios de "empleados ruidosos" distorsionen la percepción general del clima de un área?
-4. **Privacidad de Datos:** ¿Qué medidas de anonimización de datos (PII) deben aplicar obligatoriamente en sus empresas antes de subir archivos de clima o salarios a un entorno de IA?
 
 ## Bloque 3: Análisis Cuantitativo - Talent Acquisition Analytics (40 min)
 
@@ -180,16 +173,10 @@ Luego entrega el siguiente reporte en formato de tabla Markdown:
 
 ### 🛠️ Call to Action: Edición Activa (5 min)
 
-::: tip Consigna en pantalla para el participante — PASO 1
-1. Copia la **Radiografía del Dataset** y las **limitaciones de calidad** a tu documento de trabajo.
-2. **Validación manual:** Elige una hipótesis y compruébala con un filtro o conteo directo en el CSV. ¿Coincide con la IA?
-3. Marca qué métrica (Time-to-Fill, costo acumulado, etc.) **no debería usarse** con la calidad actual de tu base.
-:::
-
-::: tip Consigna en pantalla para el participante — PASO 2
-1. Copia la tabla de **Contraste de Hipótesis** y la de **Métricas Clave** a tu documento de trabajo.
-2. **Filtro de Impacto:** Modifica la cifra del "costo por día de vacante abierta" por el indicador real de costo de oportunidad o sobretiempo que utiliza tu área de Finanzas/Operaciones.
-3. Subraya en rojo el área que representa el mayor costo de ineficiencia operativa y anota si esa conclusión es un hallazgo, una interpretación o una limitación del dato.
+::: tip Consigna en pantalla para el participante
+1. **Lee** el reporte de la IA y **cópialo** a tu documento de trabajo.
+2. **Modifica** cifras, áreas o conclusiones con los datos y términos reales de tu empresa.
+3. **Corrige** al menos un dato o interpretación que no refleje tu base.
 :::
 
 ### 💬 Preguntas de Discusión Grupal
@@ -208,9 +195,9 @@ Luego entrega el siguiente reporte en formato de tabla Markdown:
 ### 🛠️ Call to Action: Puente entre los Dos Análisis (5 min)
 
 ::: tip Consigna en pantalla para el participante
-1. Coloca lado a lado tus notas del Bloque 2 (hallazgos cualitativos) y del Bloque 3 (métricas cuantitativas).
-2. Identifica **un punto de conexión**: ¿hay una misma área, rol o equipo señalado en ambos análisis?
-3. Identifica **un punto de contradicción o vacío**: ¿hay algo que el dato cuantitativo sugiere pero el cualitativo no respalda (o viceversa)? Anota en una frase qué necesitarías investigar para resolverlo antes de llevarlo a dirección.
+1. **Revisa** lado a lado lo que obtuviste en el Bloque 2 y en el Bloque 3.
+2. **Anota** una conexión y una diferencia entre ambos análisis.
+3. **Ajusta** una conclusión si los dos tipos de dato no cuadran entre sí.
 :::
 
 ### 💬 Preguntas de Discusión Grupal

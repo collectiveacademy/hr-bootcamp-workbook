@@ -38,7 +38,7 @@ Sé sumamente específico y evita frases abstractas o cualitativas.
 
 ::: tip Consigna en pantalla para el participante
 1. Copia la tabla generada por la IA y pégala en tu **Documento de Trabajo / Plantilla de HR**.
-2. **Edición manual obligatoria:** Localiza la fila de **"NO CUMPLE"** y ajusta la descripción para que refleje un vicio o error real que cometen hoy los colaboradores de tu empresa (modifica términos o herramientas para adaptarlo a tu cultura).
+2. **Edición manual obligatoria:** Revisa la tabla y edita o ajusta los criterios que consideres necesarios para adaptarla a la realidad de tu empresa.
 3. Agrega una nota al margen con el KPI interno exacto con el que medirás este comportamiento.
 :::
 
@@ -46,7 +46,7 @@ Sé sumamente específico y evita frases abstractas o cualitativas.
 
 1. **Rigor de Evaluación:** ¿Qué tan fácil o difícil es evaluar de forma objetiva la columna "EXCEDE" en sus empresas sin caer en favoritismos o subjetividades del líder?
 2. **Diagnóstico de Superficie:** Al leer la columna "NO CUMPLE", ¿qué porcentaje de su plantilla actual en ese rol consideran que estaría hoy operando en ese nivel sin que HR lo tenga mapeado?
-3. **Integración con HRIS:** ¿Esta estructura conductual es compatible con su sistema actual de evaluación de desempeño o requeriría reestructurar sus rúbricas corporativas?
+3. **Integración con HR:** ¿Esta estructura conductual es compatible con su sistema actual de evaluación de desempeño o requeriría reestructurar sus rúbricas corporativas?
 
 ## Bloque 3: Plan 70:20:10 y Guía Consultiva (45 min)
 
@@ -88,6 +88,9 @@ Un guión breve paso a paso para que el líder presente este plan en 15 minutos:
 2. **Liderazgo Consultivo:** Al revisar la guía de entrevista, ¿qué tan capacitados están sus gerentes actuales para sostener esta conversación sin sonar punitivos o impositivos?
 3. **Viabilidad de Proyectos:** De las 2 acciones de experiencia en el puesto (70%) que generó la IA, ¿cuál consideran que genera valor inmediato al negocio y cuál requiere aprobación de presupuesto o sistemas?
 
+<!--
+HIDDEN: Bloque 4 — remove this comment wrapper to restore
+
 ## Bloque 4: Fábrica de Contenidos - Guión de Micro-Learning (35 min)
 
 ### Objetivo y Reto
@@ -122,3 +125,5 @@ REGLAS DEL GUIÓN:
 1. **Hook y Enganche:** ¿Qué tanta diferencia ven entre este guión enfocado en resolver un dolor inmediato vs. los videos tradicionales de e-learning corporativo que la gente suele saltarse?
 2. **Escalabilidad y Producción:** ¿Qué tan factible es que sus propios HRBPs o expertos internos graben este guión usando herramientas básicas (teléfono, Loom, o un avatar de IA) para crear su librería interna?
 3. **Punto de Entrega:** ¿En qué momento o canal (Teams, Slack, LMS, WhatsApp corporativo) debería entregarse este micro-learning para que el colaborador lo consuma justo cuando lo necesita?
+
+-->
